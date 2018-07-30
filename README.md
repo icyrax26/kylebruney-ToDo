@@ -11,4 +11,3 @@ The library used to help carry out the project are as follows:
     - TextDrawable - The MIT License 
     - material-design-icons - Attribution 4.0 International
 
-Personal app focusing on code quality.
